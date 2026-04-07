@@ -6,6 +6,7 @@
   <title>운동 기록</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="style.css" />
+  <script src="ass.js"></script>
 </head>
 <body>
   <div class="app">
@@ -143,6 +144,5 @@
 
   </div>
 
-  <script src="app.js"></script>
 </body>
 </html>
